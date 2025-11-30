@@ -1,0 +1,1 @@
+Stat Writing to the File
