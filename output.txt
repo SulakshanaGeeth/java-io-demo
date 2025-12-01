@@ -1,5 +1,5 @@
-Stat Writing to the File
-Hear is another line
+Start Writing to the File
+Here is another line
 Product Name 01
 Product Name 02
 Product Name 03
